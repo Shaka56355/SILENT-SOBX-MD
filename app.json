@@ -67,6 +67,11 @@
       "value": "true"
     },
 
+    "AUTO_ADMIN": {
+       "description": "Make it true if you want bot auto admin group .",
+       "required": true,
+       "value": "true"
+
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
